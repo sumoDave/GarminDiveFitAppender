@@ -12,4 +12,4 @@ Instructions:
 
 Notes:
 1. Only tested with Single Gas dives recorded on a Descent G1.
-2. Does not support Tank Air Integration data.
+2. Limited Tank Integration support - only tested with single transmitter, on single dataset.
