@@ -11,8 +11,9 @@ Instructions:
 6. Delete the original dives from Garmin Connect, and import the combined dive.
 
 Notes:
-1. Only tested with Single Gas dives recorded on a Descent G1.
-2. Limited Tank Integration support - only tested with single transmitter, on single dataset.
+1. Requires Java 21+ (https://jdk.java.net/21/)
+2. Only tested with Single Gas dives recorded on a Descent G1.
+3. Limited Tank Integration support - only tested with single transmitter, on single dataset.
 
 Help:
 ```
